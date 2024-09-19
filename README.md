@@ -21,4 +21,5 @@ Each sheet in the Excel file should be structured as follows:
 ## Installation
 Install all dependencies using pip:
 ```bash
-pip install pandas numpy scipy pingouin
+pip install pandas scipy.stats pingouin
+Compare_means.py
