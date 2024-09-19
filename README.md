@@ -11,7 +11,7 @@ This Python script automates statistical analysis on grouped data contained with
 ## How to Use
 1. Ensure that your Excel file is formatted correctly with each sheet having two columns: the first for the categorical variable and the second for the continuous variable.
 2. Update the `file_path` variable in the script to the location of your Excel file.
-3. Run the script in a Python environment where `pandas`, `numpy`, `scipy.stats`, and `pingouin` are installed.
+3. Run the script in a Python environment where `pandas`, `scipy.stats`, and `pingouin` are installed.
 
 ## Excel File Structure
 Each sheet in the Excel file should be structured as follows:
