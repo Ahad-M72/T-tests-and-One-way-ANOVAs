@@ -18,6 +18,12 @@ Each sheet in the Excel file should be structured as follows:
 - The **first column** contains the categorical variable.
 - The **second column** contains the continuous variable.
 
+## How to cite: 
+A DOI badge has been added to the README to reference this repository in academic publications and other documentation. This badge links directly to the Zenodo archive, providing a stable and citable DOI.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13824269.svg)](https://doi.org/10.5281/zenodo.13824269)
+
+
 ## Installation
 Install all dependencies using pip:
 ```bash
