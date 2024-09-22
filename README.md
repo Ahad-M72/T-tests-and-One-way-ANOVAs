@@ -11,7 +11,7 @@ This Python script automates statistical analysis on grouped data contained with
 ## How to Use
 1. Ensure that your Excel file is formatted correctly with each sheet having two columns: the first for the categorical variable and the second for the continuous variable.
 2. Update the `file_path` variable in the script to the location of your Excel file.
-3. Run the script in a Python environment where `pandas`, `scipy.stats`, and `pingouin` are installed.
+3. Run the script in a Python environment where `pandas`, `scipy.stats`, and `pingouin` are installed [1].
 
 ## Excel File Structure
 Each sheet in the Excel file should be structured as follows:
@@ -23,6 +23,9 @@ A DOI badge has been added to the README to reference this repository in academi
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13824269.svg)](https://doi.org/10.5281/zenodo.13824269)
 
+## References
+1. Bierling, A.L., Croy, I., Hummel, T., Cuniberti, G., Croy, A., 2021. Olfactory perception in relation to the physicochemical odor space. Brain
+Sciences 11. doi:https://doi.org/10.3390/brainsci11050563.
 
 ## Installation
 Install all dependencies using pip:
